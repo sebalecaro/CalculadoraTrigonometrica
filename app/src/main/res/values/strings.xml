@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Trigonométrica</string>
+    <string name="input_title">Ingrese los valores conocidos del triángulo</string>
+    <string name="sides_label">Lados del triángulo:</string>
+    <string name="angles_label">Ángulos del triángulo (en grados):</string>
+
+    <!-- Hints para los campos de entrada -->
+    <string name="side_a_hint">Lado a</string>
+    <string name="side_b_hint">Lado b</string>
+    <string name="side_c_hint">Lado c</string>
+    <string name="angle_a_hint">Ángulo A</string>
+    <string name="angle_b_hint">Ángulo B</string>
+    <string name="angle_c_hint">Ángulo C</string>
+
+    <!-- Botones -->
+    <string name="calculate_button">Calcular</string>
+    <string name="refresh_button">Limpiar</string>
+
+    <!-- Mensajes -->
+    <string name="error_invalid_angle">El ángulo debe estar entre 0° y 180°</string>
+    <string name="error_need_three_values">Se necesitan al menos 3 valores para resolver el triángulo</string>
+    <string name="error_invalid_triangle">Los valores proporcionados no forman un triángulo válido</string>
+    <string name="error_angle_sum">La suma de los ángulos no puede ser mayor a 180°</string>
+    <string name="initial_message">Ingrese los valores conocidos del triángulo.</string>
+    <string name="error_angle_range">El ángulo debe estar entre 0° y 180°</string>
+    <string name="error_angles_sum">La suma de los ángulos no puede exceder 180°</string>
+    <string name="error_min_values">Se necesitan al menos 3 valores para resolver el triángulo</string>
+    <string name="default_result_text">Ingrese los valores conocidos del triángulo.</string>
+
+</resources>
